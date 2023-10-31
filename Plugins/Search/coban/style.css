@@ -1,0 +1,6 @@
+#boxSearch .icon-search{background-color:var(--color);border-radius:50%;color:white;padding:6px 10px;cursor:pointer;}
+#boxSearch .form-search{position:absolute;z-index:999;width:200px;right:0;bottom:-40px;display:none;}
+#boxSearch .form-search .input-group-text{background-color:var(--color);color:white;}
+@media screen and (max-width:992px){
+	#boxSearch .form-search{display:block;width:98%;}
+}

@@ -1,0 +1,15 @@
+#visaochon{background:url(images/why.png) no-repeat;background-size:cover;padding:20px 0;}
+.why{font-family:var(--fonttitle);position:relative;display:flex;align-items:center;transition:all 0.3s;margin-bottom:10px;}
+.why .img{position:relative;z-index:99;width:95px;height:95px;background:url(images/vs.png) no-repeat;line-height:95px;text-align:center;}
+.why .img span{font-size:40px;color:#3a2105;}
+.why .details{background-image:linear-gradient(to right,#f3c077,#fcb143);padding:15px 30px;flex:1;margin-left:-15px;border-radius:0 50px 50px 0;}
+.why .details:hover{background-image:linear-gradient(to right,#fcb143,#f3c077);}
+.why .details h3{font-size:30px;color:#3a2105;margin:0;}
+.why .details h3 a{color:#3a2105;}
+.why .details h3 a:hover{color:#fff;}
+@media screen and (max-width:1200px){
+	.why .details h3{font-size:22px;}
+}
+@media screen and (max-width:576px){
+	.why .details h3{font-size:20px;}
+}

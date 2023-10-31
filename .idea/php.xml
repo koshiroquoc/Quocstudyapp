@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/composer/vendor/intervention/imagecache" />
+      <path value="$PROJECT_DIR$/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/composer/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/composer/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/composer/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/composer/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/composer/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/composer/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/composer/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/composer/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/composer/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/composer/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/composer/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/composer/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/composer/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/composer/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/composer/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/composer/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/composer/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/composer/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+</project>

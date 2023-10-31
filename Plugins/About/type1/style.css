@@ -1,0 +1,11 @@
+#gioithieu{position:relative;}
+#gioithieu .img img{width:100%;}
+#gioithieu .details p{font-size:1em;color:#363636;}
+#gioithieu .details .btn{font-size:1em;text-transform:uppercase;transition:all 0.5s;border-radius:2em;padding:.5em 1.5em;border:0;margin-top:1em;}
+#gioithieu .details .btn:hover{transform:translateX(10px);color:white;background-color:#dc3545;border-color:#dc3545;}
+#gioithieu article img{max-width:100%!important;height:auto!important;}
+#gioithieu article iframe{width:100%!important;height:auto!important;}
+#gioithieu article{height:310px;overflow:hidden;}
+#gioithieu .img2{width:100%;text-align:center;}
+#gioithieu .img2 img{max-width:100%;}
+#gioithieu .btn:hover{background-color:#dc3545;color:white;border-color:#dc3545;}

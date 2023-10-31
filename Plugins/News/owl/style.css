@@ -1,0 +1,9 @@
+.boxNews{position:relative;padding:1em 0;}
+.boxNews .items{padding:10px;border:1px solid #e5e5e5;transition:all 0.5s;}
+.boxNews .items:hover{transform:translateY(-5px);}
+.boxNews .items .img{position:relative;}
+.boxNews .items .details{position:relative;padding:1em 0 0 0;}
+.boxNews .items .details h3{font-size:1em;}
+.boxNews .items .details h3 a{text-transform:capitalize;color:#424242;}
+.boxNews .items .details h3 a:hover{color:var(--color);}
+.boxNews .items .details p{color:#424242;margin:0 0 5px 0;}

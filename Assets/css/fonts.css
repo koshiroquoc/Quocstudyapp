@@ -1,0 +1,16 @@
+/* CSS Document */
+@font-face {
+    font-family: 'SVNChannel';
+    src: url('font/SVNChannel/SVN-Channel.woff2') format('woff2'),
+        url('font/SVNChannel/SVN-Channel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UVNAnhHaiNhe';
+    src: url('font/UVNAnhHaiNhe/UVNAnhHaiNhe.woff2') format('woff2'),
+        url('font/UVNAnhHaiNhe/UVNAnhHaiNhe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

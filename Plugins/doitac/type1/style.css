@@ -1,0 +1,9 @@
+#doitac{position:relative;padding:1em 0;margin:2em 0;box-shadow:0px 0px 3px 1px #ccc;border-radius:5px;}
+#doitac .owl-item{padding:2px;}
+#doitac .li img{border:0px solid #c4c4c4;height:auto;-webkit-transition:transform 1s ease-in-out;-moz-transition:transform 1s ease-in-out;-o-transition:transform 1s ease-in-out;transition:transform 1s ease-in-out;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;}
+#doitac .li:hover img{-moz-transform:rotate3d(0,1,0,360deg);-webkit-transform:rotate3d(0,1,0,360deg);-ms-transform:rotate3d(0,1,0,360deg);transform:rotate3d(0,1,0,360deg);border:0px solid var(--color);}
+#doitac .owl-carousel .owl-nav button{background:transparent;color:var(--color);font-size:2em;}
+@media (min-width:1200px){
+	#doitac .owl-carousel .owl-nav button.owl-prev{left:-45px;}
+	#doitac .owl-carousel .owl-nav button.owl-next{right:-45px;}
+}

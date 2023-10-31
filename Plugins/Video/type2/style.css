@@ -1,0 +1,7 @@
+#boxVideo{position:relative;}
+#boxVideo .play-icon{width:100%;display:inline-block;position:relative;}
+#boxVideo .play-icon img{width:100%;height:auto;}
+#boxVideo .play-icon a:after{content:'';position:absolute;width:100%;height:100%;left:0;top:0;background:#00000036 url(images/play.png) no-repeat center;}
+#boxVideo .play-icon a:hover:after{opacity:.7;}
+#boxVideo .owl-carousel .owl-nav button.owl-prev,#boxVideo .owl-carousel .owl-nav button.owl-next{opacity:0;}
+#boxVideo:hover .owl-carousel .owl-nav button.owl-prev,#boxVideo:hover .owl-carousel .owl-nav button.owl-next{opacity:1;}

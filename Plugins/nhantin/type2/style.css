@@ -1,0 +1,17 @@
+#nhantin{position:relative;background:url(images/mailer.png) no-repeat;padding:1em 0 0 0;background-size:cover;}
+#nhantin .contact-form-body{padding:0em 7em 2em 7em;}
+#nhantin .contact-form-body .form-row{padding:1.25em 2em;opacity:.9;background-color:#d2c9bb;}
+#nhantin .contact-form-body .input-group{}
+#nhantin .contact-form-body .input-group-text,#nhantin .contact-form-body .form-control{background-color:transparent;border-radius:0;border:0;border-bottom:1px solid #8b8b8b;}
+#nhantin .contact-form-body .form-control{padding:1.5em 0;}
+#nhantin .contact-form-body .input-group-text:hover,#nhantin .contact-form-body .form-control:hover{color:var(--color);border-bottom:1px solid var(--color);}
+#nhantin .contact-form-body .input-group:hover .fas{color:var(--color);}
+#nhantin .contact-form-body .button-group button{width:100%;background-color:var(--color);font-size:1.28em;text-align:center;color:black;padding:.5em;}
+#nhantin .contact-form-body .form-control:focus{box-shadow:none;}
+#nhantin .contact-form-body .form-control::placeholder{color:#8b8b8b;}
+#nhantin .contact-form-body .input-group:hover .form-control::placeholder{color:var(--color);}
+#nhantin .contact-form-body .btn{font-size:1.07em;padding:.5em 1.2em;}
+#nhantin .contact-form-body .btn:hover{background-color:var(--hcolor);color:white;}
+@media (min-width:576px){
+	#nhantin:after{content:'';width:233px;height:201px;background:url(images/bgmailer.png) no-repeat;position:absolute;bottom:0;right:0;pointer-events:none;}
+}

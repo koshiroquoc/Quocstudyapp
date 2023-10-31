@@ -1,0 +1,27 @@
+/*---------------Khách hàng---------------*/
+#khachhang{background:url(images/khachhang.png) no-repeat bottom center;font-family:var(--font);min-height:736px;}
+#khachhang .kh_item{margin-top:120px;}
+#khachhang .owl-carousel .owl-nav button.owl-next:before{content:'';}
+#sync2{width:140px;margin:auto;}
+#sync2 .item{color:#FFF;text-align:center;}
+#sync2 .item img{border-radius:50%;}
+#sync2 .center .item{transform:scale(1);}
+#sync2 .center.active .item img{border:0px solid var(--color);}
+#sync1{width:35%;margin:auto;}
+#sync1 img{width:auto;margin:1em auto;}
+#sync1 .item{padding:0;margin:0;color:var(--color);text-align:center;cursor:pointer;}
+#sync1 .item h3{font-size:16px;text-transform:uppercase;color:#323232;font-weight:700;margin:0;}
+#sync1 .item span{font-size:15px;color:var(--color);font-weight:600;}
+#sync1 .item p{font-size:15px;color:#323232;font-weight:500;margin:5px 0;}
+#sync1.owl-theme{position:relative;}
+@media (max-width:820px){
+	#sync2{width:90%;}
+}
+@media (max-width:600px){
+	#khachhang{padding-bottom:10px;}
+	#khachhang .thanh_title h4{font-size:28px;}
+	#sync1{width:90%;}
+}
+@media (max-width:425px){
+	#sync2{width:100%;}
+}

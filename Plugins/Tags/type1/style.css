@@ -1,0 +1,4 @@
+.boxTags ul{display:block;position:relative;padding:0;margin:0 0 1em 0;list-style:none;}
+.boxTags ul > li{display:inline-block;border:1px solid #313131;background-color:#50505042;margin:0 4px 10px 0;padding:4px 12px;}
+.boxTags ul > li > a{color:#a6a6a6;font-size:15px;padding:0;display:block;}
+.boxTags ul > li > a:hover{color:var(--color);}

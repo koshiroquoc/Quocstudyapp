@@ -1,0 +1,7 @@
+#chonchungtoi{ width: 100%; float: left; margin: 10px 0px 0px 0px;background: url('images/tuvan.png') no-repeat 0px 0px; background-color: #F5F5F5; padding: 25px 0px 25px 170px; border-radius: 60px 0px 0px 60px; }
+.chonchungtoi_in{ margin-right: -15px; margin-left: -15px; }
+.noidung_chon{ width: 100%; float: left; text-align: center; margin-bottom: 20px; padding: 0px 200px; }
+.owl_chonchungtoi li i{  float: left; color: #00a8ff; margin: 10px 20px 10px 0px; border: 1px dotted #333; padding: 25px; border-radius: 100%; font-size: 36px; }
+.owl_chonchungtoi li img{ float: left; margin-right: 10px; }
+.owl_chonchungtoi li h3{ font-family: 'RobotoBold'; font-size: 15px; text-transform: capitalize; padding: 5px 0px 0px 0px; color: #333; }
+.owl_chonchungtoi li p{ font-family: 'RobotoRegular'; font-size: 13px; color: #333;padding-top: 5px; color: #828282 }

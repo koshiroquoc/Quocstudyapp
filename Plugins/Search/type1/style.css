@@ -1,0 +1,9 @@
+.timkiem{border:2px solid #f0261c;border-radius:0;align-items:center;flex-wrap:inherit;margin: 1em 0;}
+.timkiem .form-control{border:0;background-color:transparent;outline:none;box-shadow:none;color:#5f5f5f;font-size:1em;font-weight:normal;}
+.timkiem .form-control:focus{box-shadow:none;}
+.timkiem .form-control::placeholder{font-size:1em;color:#5f5f5f;font-weight:normal;}
+.timkiem button{padding:9px 20px;background-color:#f0261c;font-weight:normal;border:0;border-radius:0;}
+.timkiem button:hover{opacity:.7;}
+@media (min-width:1200px){
+	.timkiem{max-width:600px;margin:1em auto;}
+}

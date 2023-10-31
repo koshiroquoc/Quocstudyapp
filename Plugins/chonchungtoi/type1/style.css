@@ -1,0 +1,11 @@
+#chonchungtoi{position:relative;}
+@media (min-width:1200px){
+	#chonchungtoi{padding:0 12em;}
+}
+#chonchungtoi .chonchungtoi{text-align:center;}
+#chonchungtoi .img{width:81px;height:81px;margin:auto;border-radius:50%;-webkit-transition:transform 1s ease-in-out;-moz-transition:transform 1s ease-in-out;-o-transition:transform 1s ease-in-out;transition:transform 1s ease-in-out;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;}
+#chonchungtoi .chonchungtoi:hover .img{-moz-transform:rotate3d(0,1,0,360deg);-webkit-transform:rotate3d(0,1,0,360deg);-ms-transform:rotate3d(0,1,0,360deg);transform:rotate3d(0,1,0,360deg);}
+#chonchungtoi .details{margin-top:21px;display:block;height:135px;overflow:hidden;}
+#chonchungtoi .details h3{font-family:var(--fonttitle);font-size:1.28em;font-weight:700;color:black;}
+#chonchungtoi .chonchungtoi:hover h3{color:var(--hcolor);}
+#chonchungtoi .details p{font-size:1em;color:black;}

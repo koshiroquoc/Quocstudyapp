@@ -1,0 +1,5 @@
+.thongtin_bt img{max-width:100%;}
+.thongtin_bt ul{width:100%;margin:0;padding:0;list-style:none;}
+.thongtin_bt li span{width:30px!important;height:30px;margin-right:10px;display:inline-flex;align-items:center;justify-content:center;border:1px solid #108eff;border-radius:5px;}
+.thongtin_bt li{padding:2px 0px 10px 0px;color:white;font-size:1em;}
+.thongtin_bt li p{margin:0;}

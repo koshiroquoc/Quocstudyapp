@@ -1,0 +1,9 @@
+#visaochon{width:100%;margin:0;padding:0;position:relative;background-position:center!important;background-repeat:no-repeat!important;background-size:cover!important;background-attachment:fixed!important;}
+#visaochon .title-style-1 h2{background:url(images/style-title-2.png) no-repeat bottom center;}
+#visaochon .people-center{position:absolute;bottom:0;left:50%;transform:translate(-50%);width:100%;margin:0;}
+#visaochon .media img{max-width:100%;}
+#visaochon .media-body{font-family:var(--fonttitle);font-size:14px;color:black;}
+#visaochon .media-body h3{position:relative;font-family:var(--fonttitle);font-weight:500;text-transform:uppercase;color:black;font-size:17px;margin-bottom:1em;padding-bottom:10px;}
+#visaochon .media-body h3.l:after{content:'';width:37px;height:1px;background-color:#acacac;position:absolute;bottom:0;left:0;}
+#visaochon .media-body h3.r:after{content:'';width:37px;height:1px;background-color:#acacac;position:absolute;bottom:0;right:0;}
+#visaochon .media:hover img{-webkit-filter:grayscale(100%) brightness(120%) sepia(90%) hue-rotate(5deg) saturate(500%) contrast(0.7);filter:grayscale(100%) brightness(120%) sepia(90%) hue-rotate(5deg) saturate(500%) contrast(0.7);}

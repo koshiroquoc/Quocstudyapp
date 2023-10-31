@@ -1,0 +1,5 @@
+#slider {position:relative;}
+#slider .items img{border-radius: 5px;}
+#slider .owl-carousel .owl-nav button.owl-prev{left:10px;opacity:0;}
+#slider .owl-carousel .owl-nav button.owl-next{right:10px;opacity:0;}
+#slider:hover .owl-carousel .owl-nav button.owl-prev,#slider:hover .owl-carousel .owl-nav button.owl-next{opacity:1;}

@@ -1,0 +1,5 @@
+.boxProd.bg {background:url(images/bg.png) repeat;}
+.boxProd .owl-item{padding:10px 0;}
+.boxProd .owl-carousel .owl-nav button.owl-next,.boxProd .owl-carousel .owl-nav button.owl-prev{background:white;border-radius:50%;color:var(--color);font-size:1.5em;border:2px solid var(--color);width:40px;height:40px;}
+.boxProd .owl-carousel .owl-nav button.owl-next{right:-50px;}
+.boxProd .owl-carousel .owl-nav button.owl-prev{left:-50px;}

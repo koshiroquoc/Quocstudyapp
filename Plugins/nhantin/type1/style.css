@@ -1,0 +1,6 @@
+#mailer{padding:2em 0;position:relative;background-color:var(--color);}
+#mailer .title-style-1:before{content:none;}
+#mailer .form-control{position:relative;border-radius:2em;border:0;padding:2em;color:#b5b5b5;}
+#mailer .form-control:focus{outline:none;box-shadow:none;}
+#mailer .input-group-append{position:absolute;z-index:99;right:4px;top:4px;bottom:4px;background-color:var(--color);color:white;padding:0em 1em;border-radius:2em;}
+#mailer .input-group-append button{font-size:1.2em;border:0;color:white;background-color:transparent;}

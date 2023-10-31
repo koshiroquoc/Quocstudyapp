@@ -1,0 +1,14 @@
+.boxProd.bg{background-color:#fafafa;padding:2em 0;}
+.boxProd .owl-item{padding:10px 2px;}
+.boxProd .owl-carousel .owl-nav button{background:transparent!important;color:var(--color)!important;font-size:2em;}
+.boxProd .owl-carousel .owl-nav button.owl-next{right:-50px;}
+.boxProd .owl-carousel .owl-nav button.owl-prev{left:-50px;}
+.boxProd .nav-tabs{background-color:white;border:0;}
+.boxProd .nav-tabs .nav-item{position:relative;margin:0;}
+.boxProd .nav-tabs .nav-link{text-transform:uppercase;border-radius:0;border:0;font-size:1.28em;color:black;}
+.boxProd .nav-tabs .nav-item:after{content:'|';position:absolute;right:-4px;top:8px;}
+.boxProd .nav-tabs .nav-item:last-child:after{content:none;}
+.boxProd .nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{color:var(--tcolor);}
+@media screen and (max-width:576px){
+	.boxProd.bg{padding:1em 0;}
+}
